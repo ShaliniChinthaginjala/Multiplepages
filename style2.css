@@ -1,0 +1,43 @@
+#picture{
+    height:500px;
+    width:1500px;
+    border:5px solid rgb(100, 200, 200);
+    display:flex;
+    align-items:center;
+    margin:auto;
+    padding: 0;
+    position:sticky;
+    justify-content:space-around;
+    border-top-left-radius:50%;
+    border-bottom-right-radius:50%;
+    border-radius:10%;
+
+    
+}
+div.scroll
+{
+    background-color: #333;
+  overflow: auto;
+  white-space: nowrap;
+  padding: 10px;
+}
+div.scroll img{
+    padding:10px;
+}
+img{
+    border-top-left-radius:10%;
+    border-bottom-right-radius:10%;
+    border-radius:10%
+}
+.container img{
+    border-top-left-radius:50%;
+    border-top-right-radius:50%;
+    border-bottom-left-radius:50%;
+    border-bottom-right-radius:50%;
+
+
+}
+
+
+
+
